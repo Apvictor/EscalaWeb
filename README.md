@@ -1,6 +1,6 @@
 <!-- CAPA OU LOGO -->
 <h1>
-<img src="https://i.picasion.com/pic90/52b8733f78ca348edd6e2a9d1b00d0b5.gif">
+<img src="https://i.picasion.com/pic90/b1de5d555cc6f0f13949c586cad02b4a.gif">
 </h1>
 
 <!-- DESCRIÇÃO -->
