@@ -1,6 +1,6 @@
 <!-- CAPA OU LOGO -->
 <h1>
-<img src="https://ik.imagekit.io/mnbr5uwksus/ADSoftware/banner-ads_HKJ-B9hUel.jpg">
+<img src="https://i.picasion.com/pic90/9ec8b95e1eb3105ba85ff15cc5dad380.gif">
 </h1>
 
 <!-- DESCRIÇÃO -->
@@ -24,11 +24,6 @@ Disponível para atuar no mercado de desenvolvimento de sistemas.</p>
 
 <p>Atualmente estudando: PHP e JavaScript.</p>
 
-<!-- BANNER -->
-<img rel="icon" src="https://i.picasion.com/pic90/9ec8b95e1eb3105ba85ff15cc5dad380.gif" type="image/gif"><br>
-
-<hr>
-
 <!-- LinkedIn -->
 <a href="www.linkedin.com/in/armando-víctor-pereira-2021"><img rel="icon" src="https://ik.imagekit.io/mnbr5uwksus/Icons/linkedin-16_HxYEL0Hyz.png" type="image/gif"> <b>LinkedIn</b></a>
 
@@ -38,10 +33,3 @@ Disponível para atuar no mercado de desenvolvimento de sistemas.</p>
 <hr>
 <center>&copy 2021 Armando Pereira </center>
 
-<!-- CSS -->
-<style type="text/css">
-a:link {
- text-decoration:none;
- color: white;
-} 
-</style>
