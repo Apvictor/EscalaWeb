@@ -1,6 +1,6 @@
 <!-- CAPA OU LOGO -->
 <h1>
-<img src="https://i.picasion.com/pic90/b1de5d555cc6f0f13949c586cad02b4a.gif">
+<img src="https://ik.imagekit.io/mnbr5uwksus/ADSoftware/banner-ads_HKJ-B9hUel.jpg">
 </h1>
 
 <!-- DESCRIÇÃO -->
@@ -13,6 +13,9 @@ Projeto - Imobiliária Viva Bem
 
 <p>Sou Armando Pereira, desenvolvedor de software, atualmente estou no último semestre da Faculdade de Análise e Desenvolvimento de Sistemas.<br>
 Disponível para atuar no mercado de desenvolvimento de sistemas.</p>
+
+<!-- BANNER -->
+<img rel="icon" src="https://i.picasion.com/pic90/b1de5d555cc6f0f13949c586cad02b4a.gif" type="image/gif"><br>
 
 <ul>
   <li>Principais Linguagens Utilizadas: PHP, CSS3 e HTML5.<br></li>
@@ -32,4 +35,3 @@ Disponível para atuar no mercado de desenvolvimento de sistemas.</p>
 
 <hr>
 <center>&copy 2021 Armando Pereira </center>
-
