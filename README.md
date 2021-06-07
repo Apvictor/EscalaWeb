@@ -22,7 +22,7 @@ Disponível para atuar no mercado de desenvolvimento de sistemas.</p>
   <li>Principais SGDB Utilizados: MySQL.<br></li>
   <li>Principais IDEs: Visual Studio Code.</li>
   <li>Principais Bibliotecas: PHPMailer.</li>
-  <li>Principais FrameWorks: Booststrap.</li>
+  <li>Principais FrameWorks: Bootstrap.</li>
 </ul>
 
 <p>Atualmente estudando: PHP e JavaScript.</p>
